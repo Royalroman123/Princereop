@@ -81,9 +81,9 @@ autoclean = []
 confirmer = {}
 
 START_IMG_URL =  "https://files.catbox.moe/iyr906.jpg"
-PLAYLIST_IMG_URL = "https://i.ibb.co/XFyfNRC/photo-2024-12-14-04-11-48-7448115436119392264.jpg"
-STATS_IMG_URL = "https://i.ibb.co/k1KyRqd/photo-2025-01-20-17-10-11-7462046184018804752.jpg"
-TELEGRAM_AUDIO_URL = "https://i.ibb.co/TrJhtN4/photo-2024-12-14-04-12-15-7448115547788542008.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/ppifj3.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/iyr906.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/ppifj3.jpg"
 TELEGRAM_VIDEO_URL = "https://i.ibb.co/XFyfNRC/photo-2024-12-14-04-11-48-7448115436119392264.jpg"
 STREAM_IMG_URL = "https://i.ibb.co/THd3s2g/photo-2024-12-14-04-12-49-7448115698112397328.jpg"
 SOUNCLOUD_IMG_URL = "https://i.ibb.co/TrJhtN4/photo-2024-12-14-04-12-15-7448115547788542008.jpg"
