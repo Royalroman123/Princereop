@@ -1,4 +1,4 @@
-import re
+hmimport re
 from os import getenv
 from dotenv import load_dotenv
 from pyrogram import filters
@@ -34,7 +34,7 @@ HEROKU_APP_NAME = None
 
 HEROKU_API_KEY = None
 
-UPSTREAM_REPO = "https://github.com/Sixeyesuser07/Sam-empire"
+UPSTREAM_REPO = "https://github.com/Royalroman123/Princereop.git"
 
 UPSTREAM_BRANCH = "master"
 
