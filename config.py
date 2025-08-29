@@ -12,13 +12,13 @@ BOT_TOKEN = "7656161134:AAHjCxbnREPaZSVYr8SWY70703vPnMyXyUg"
 
 BOT_ID = 7825870013
 
-BOT_USERNAME = ""
+BOT_USERNAME = "@Music_Silent_bot"
 
-OWNER_USERNAME = ""
+OWNER_USERNAME = "@finalbossrock"
 
 BOT_NAME = "━──『 🎶ＳɪʟᴇɴᴛＭᴜꜱɪᴄＢᴏᴛ🎶 』──━"
 
-ASSUSERNAME = "Erika_assistant"
+ASSUSERNAME = ""
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://tony30:tony123@cluster0.rplt3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
