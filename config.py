@@ -18,10 +18,9 @@ OWNER_USERNAME = "@finalbossrock"
 
 BOT_NAME = "━──『 🎶ＳɪʟᴇɴᴛＭᴜꜱɪᴄＢᴏᴛ🎶 』──━"
 
-ASSUSERNAME = ""
+ASSUSERNAME = "@SilentAssistant"
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://tony30:tony123@cluster0.rplt3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-
+MONGO_DB_URI = getenv("MONGO_DB_URI", ""
 DURATION_LIMIT_MIN = 500000
 
 LOGGER_ID = int(getenv("LOGGER_ID", -1002116643591))
