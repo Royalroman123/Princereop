@@ -23,7 +23,7 @@ ASSUSERNAME = "@SilentAssistant"
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Sarkar123:GAUTAMMISHRA@sarkar.1uiwqkd.mongodb.net/?retryWrites=true&w=majority"
 DURATION_LIMIT_MIN = 500000
 
-LOGGER_ID = int(getenv("LOGGER_ID", -1002116643591))
+LOGGER_ID = int(getenv("LOGGER_ID", -1003063952141)
 
 DISASTER_LOG = -1002116643591
 
