@@ -10,13 +10,13 @@ API_ID = 28976608
 API_HASH = "1e200bdfdcc3cc816f9f6a62e6e6f4a0"
 BOT_TOKEN = "7656161134:AAHjCxbnREPaZSVYr8SWY70703vPnMyXyUg"
 
-BOT_ID = 8151120625
+BOT_ID = 7825870013
 
-BOT_USERNAME = "Zenitsu_musicx_bot"
+BOT_USERNAME = ""
 
-OWNER_USERNAME = "zeni_og"
+OWNER_USERNAME = ""
 
-BOT_NAME = "˹ᴢᴇɴɪᴛsᴜ ꭙ Mᴜsɪᴄ˼"
+BOT_NAME = "━──『 🎶ＳɪʟᴇɴᴛＭᴜꜱɪᴄＢᴏᴛ🎶 』──━"
 
 ASSUSERNAME = "Erika_assistant"
 
